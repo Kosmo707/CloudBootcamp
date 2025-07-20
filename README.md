@@ -1,7 +1,7 @@
 # CloudBootcamp
 ## step-by-step
 
-Ordered List
+### Ordered List
 1. MasterCloud
 2. Consciousness
 
